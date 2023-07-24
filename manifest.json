@@ -1,13 +1,13 @@
 {
-    "name" : "تست",
-    "short_name" : "pwa",
+    "name" : "Testing PWA",
+    "short_name" : "PWA",
     "start_url" : "/?source=pwa",
     "scope" : ".",
     "display" : "standalone",
     "dir" : "rtl",
     "lang" : "fa",
-    "background_color" : "#64b5f6",
-    "theme_color" : "#1e88e5",
+    "background_color" : "#1e1e1e",
+    "theme_color" : "#7fffd4",
     "icons" : [
         {
             "src" : "/assets/icons/homescreen48.png",
